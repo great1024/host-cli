@@ -1,0 +1,16 @@
+# Copyright (c) 1993-2009 Microsoft Corp.## This is a sample HOSTS file used by Microsoft TCP/IP for Windows.## This file contains the mappings of IP addresses to host names. Each# entry should be kept on an individual line. The IP address should# be placed in the first column followed by the corresponding host name.# The IP address and the host name should be separated by at least one# space.## Additionally, comments (such as these) may be inserted on individual# lines or following the machine name denoted by a '#' symbol.## For example:##      102.54.94.97     rhino.acme.com          # source server#       38.25.63.10     x.acme.com              # x client host# localhost name resolution is handled within DNS itself.#	127.0.0.1       localhost#	::1             localhost#127.0.0.1	activate.navicat.com#47.252.81.27 www.localspider.com#192.168.10.94 ytd-local.com#8.135.111.51 ytd.apist.gerpgo.com#8.135.111.51 ytd.app.gerpgo.com220.181.38.148 baidu1.com47.57.2.74 admin.miaomiao.me47.57.2.74 miaomiao.me
+23.217.126.185 sellercentral.amazon.com
+23.217.126.185 sellercentral.amazon.co.uk
+23.52.178.204 sellercentral.amazon.de
+23.217.126.185 sellercentral.amazon.es
+23.217.126.185 sellercentral.amazon.fr
+23.217.126.185 sellercentral.amazon.com.au
+23.217.126.185 sellercentral.amazon.ca
+23.217.126.185 sellercentral.amazon.com.mx
+23.217.126.185 sellercentral.amazon.nl
+23.217.126.185 sellercentral.amazon.pl
+23.217.126.185 sellercentral.amazon.se
+23.217.126.185 sellercentral.amazon.sg
+23.217.126.185 sellercentral.amazon.in
+23.217.126.185 sellercentral.amazon.com.br
+23.217.126.185 sellercentral.amazon.it
